@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
 import pickle
 from sklearn.preprocessing import OneHotEncoder, MinMaxScaler
 from sklearn.metrics import classification_report
